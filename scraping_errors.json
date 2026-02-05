@@ -1,0 +1,94 @@
+{
+  "failed_pages": [
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Lakshmi_Chowk-1505-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Lakshmi_Chowk-1505-2.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Shah_Jamal-1491-2.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Central_Park_Housing_Scheme-1013-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Khayaban_e_Zafar-18840-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Kamahan_Road-8855-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Qartaba_Chowk-12099-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Kacha_Ferozepur_Road-11330-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Noor_Jahan_Road-10669-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Shama_Road-12148-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Ravi_Gardens_Smart_Homes-21814-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Lytton_Road-4581-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Chauburji-13907-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Medical_Housing_Society-4359-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Shahkam_Chowk-11216-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Kotha_Pind-10955-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Wafaqi_Colony-4380-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Punjab_Govt_Employees_Society-4430-1.html",
+      "reason": "No properties found"
+    },
+    {
+      "url": "https://www.zameen.com/Flats_Apartments/Lahore_Shalimar_Link_Road-9437-1.html",
+      "reason": "No properties found"
+    }
+  ],
+  "failed_properties": [
+    {
+      "url": "https://www.zameen.com/Property/askari_askari_11_brand_new_3_bed_flat_for_sale_in_askari_11_lahore-43834377-1503-1.html",
+      "error": "Failed to fetch page"
+    },
+    {
+      "url": "https://www.zameen.com/Property/askari_10_askari_10_-_sector_s_excellent_brand_new_4_bedroom_apartment_available_for_sale-52318027-21434-1.html",
+      "error": "Failed to fetch page"
+    },
+    {
+      "url": "https://www.zameen.com/new-projects/residence_15-2040.html",
+      "error": "Failed to fetch page"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+2700 flats data from 99 accre of Gudgao
+250 properties in Gudgao exist
+
+Data :
+1) Flats ✅ (get socitey from address) for sale 
+2) Independent-builder floors (indep houses data) data of houses 1000 houses
+3) plots data also (resedential land) zameen data 2000 plots (zameen)
+4) real-estate   (apartments) 250 socities ✅
+5) apartments data (real_estate_data) socities data 
+
+
+Columns of flats
+
+property_name | link | society | price |
+ area | areaWithType | bedroom | bathroom |
+ balcony | additionalRoom | address | floorNum |
+ facing | ageOfPossession | nearbyLocations | 
+description | furnishDetails | features | rating | 
+property_id
+
+Columns for society
+PropertyName | PropertySubName |
+ NearbyLocations/LocationAdvantages |
+ Link | PriceDetails | TopFacilities
+
+3 parts of project
+Regression
+-> flat tentative price system(prediction)
+
+Recommender System
+-> Suggest more flats like this
+-> Society suggestion
+
+Analysis
+-> City Level
+-> Sector Level
+-> Insight System(Factors) -> inference(ml model)
+
+Deploy on AWS
+
+CI/CD pipelines
+efficient
